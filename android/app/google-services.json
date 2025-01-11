@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73744018745",
+    "project_id": "akemha-e816a",
+    "storage_bucket": "akemha-e816a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73744018745:android:65754a78d7e3ac1d7f0ce8",
+        "android_client_info": {
+          "package_name": "com.example.akemha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQ1yZf3sp6sgaZASNOxckh9JQm_CZNR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

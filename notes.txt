@@ -1,0 +1,9 @@
+
+dart run build_runner build --delete-conflicting-outputs  
+
+
+
+git checkout -b branchName
+
+
+git fetch origin
